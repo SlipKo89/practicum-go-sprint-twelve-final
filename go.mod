@@ -1,4 +1,4 @@
-module module github.com/Yandex-Practicum/practicum-go-sprint-twelve-final
+module github.com/Yandex-Practicum/practicum-go-sprint-twelve-final
 
 go 1.23.0
 
